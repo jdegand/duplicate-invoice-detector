@@ -13,7 +13,7 @@ A Python-based financial ledger auditing system designed to automatically screen
 ### Project Structure
 
 ```text
-corporate-spend-audit/
+duplicate-invoice-detector/
 │
 ├── data/
 │   └── mock_corporate_ledger.csv      # Raw input corporate transaction ledger
