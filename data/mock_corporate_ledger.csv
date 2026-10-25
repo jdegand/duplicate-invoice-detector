@@ -1,0 +1,17 @@
+Transaction_ID,Timestamp,Employee_ID,Merchant,Category,Amount,Status
+TXN1000,2026-10-01 10:14,EMP005,Uber,Ground Transit,155.03,Pending Review
+TXN1001,2026-10-01 14:43,EMP006,LinkedIn Ads,Marketing,184.40,Pending Review
+TXN1002,2026-10-02 11:22,EMP001,Shell Fuel,Fuel,225.59,Pending Review
+TXN1010,2026-10-05 14:30,EMP001,Delta Air Lines,Travel,650.00,Pending Review
+TXN1011,2026-10-05 14:32,EMP002,Delta Air Lines,Travel,650.00,Pending Review
+TXN1012,2026-10-05 19:42,EMP005,Marriott Hotels,Lodging,106.33,Pending Review
+TXN1015,2026-10-07 10:07,EMP005,Staples,Office Supplies,260.67,Pending Review
+TXN1025,2026-10-12 11:15,EMP004,Marriott Hotels,Lodging,700.00,Pending Review
+TXN1026,2026-10-12 11:19,EMP004,Marriott Hotels,Lodging,700.00,Pending Review
+TXN1038,2026-10-18 19:00,EMP005,Uber,Ground Transit,24.50,Pending Review
+TXN1039,2026-10-18 19:02,EMP005,Uber,Ground Transit,24.50,Pending Review
+TXN1044,2026-10-19 12:15,EMP003,Amazon Business,Office Supplies,345.12,Pending Review
+TXN1050,2026-10-24 14:22,EMP003,Uber,Ground Transit,42.15,Pending Review
+TXN1051,2026-10-25 09:15,EMP002,Marriott Hotels,Lodging,312.50,Pending Review
+TXN1052,2026-10-26 11:00,EMP006,Staples,Office Supplies,400.00,Pending Review
+TXN1053,2026-10-27 16:45,EMP001,Delta Air Lines,Office Supplies,520.10,Pending Review
